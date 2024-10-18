@@ -15,12 +15,26 @@ img {
     width: 100%;
 }
 
-table {
+.tableDrivers {
     border-collapse: collapse;
     font-size: 18px;
     text-align: center;
     width: 50%;
     margin-left: 25%;
     background-color: rgba(248, 219, 56, 0.808) ;
+}
+
+footer {
+    background-color:rgb(52, 49, 30);
+    color: white;
+}
+
+
+.tableFooter {
+    border-collapse: collapse;
+    font-size: 18px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
 }
 
